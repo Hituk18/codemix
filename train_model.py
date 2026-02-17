@@ -41,3 +41,4 @@ pickle.dump(model, open("model.pkl", "wb"))
 pickle.dump(vectorizer, open("vectorizer.pkl", "wb"))
 
 print("Unified multilingual model trained successfully.")
+
