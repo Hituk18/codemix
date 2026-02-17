@@ -264,3 +264,4 @@ if single_review:
     sentiment = predict_sentiment(single_review)
     st.subheader("Prediction Result")
     st.write(f"Sentiment: {sentiment}")
+
